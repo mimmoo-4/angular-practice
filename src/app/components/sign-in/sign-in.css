@@ -19,6 +19,7 @@ label {
 input[type="email"],
 input[type="password"] {
   width: 100%;
+  max-width: 380px;
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
